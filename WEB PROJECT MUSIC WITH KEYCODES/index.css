@@ -1,0 +1,271 @@
+body{
+
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+   
+}
+
+
+h1{
+    font-family: cursive;
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    font-size: 40px;
+    padding: 8px;
+}
+div{
+
+    display: flex;
+    justify-content: space-evenly;
+    grid-auto-flow: column;
+    position: relative;
+    top: 411px;
+    
+}
+
+
+#Abtn{
+
+    width: 150px;
+    height: 80px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background-color: #2A2F4F;
+    color: white;
+    font-size: 26px;
+    border: transparent;
+
+
+}
+
+#Abtn:hover{
+   
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    background-color: #088395;
+}
+
+#Bbtn{
+
+    width: 150px;
+    height: 80px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background-color: #2A2F4F;
+    color: white;
+    font-size: 26px;
+    border: transparent;
+
+
+}
+
+#Bbtn:hover{
+   
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    background-color: #088395;
+}
+
+
+#Cbtn{
+
+    width: 150px;
+    height: 80px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background-color: #2A2F4F;
+    color: white;
+    font-size: 26px;
+    border: transparent;
+
+
+}
+
+#Cbtn:hover{
+   
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    background-color: #088395;
+}
+
+
+#Dbtn{
+
+    width: 150px;
+    height: 80px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background-color: #2A2F4F;
+    color: white;
+    font-size: 26px;
+    border: transparent;
+
+
+}
+
+#Dbtn:hover{
+   
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    background-color: #088395;
+}
+
+
+#Ebtn{
+
+    width: 150px;
+    height: 80px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background-color: #2A2F4F;
+    color: white;
+    font-size: 26px;
+    border: transparent;
+
+
+}
+
+#Ebtn:hover{
+   
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    background-color: #088395;
+}
+
+
+#Fbtn{
+
+    width: 150px;
+    height: 80px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background-color: #2A2F4F;
+    color: white;
+    font-size: 26px;
+    border: transparent;
+
+
+}
+
+#Fbtn:hover{
+   
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    background-color: #088395;
+}
+
+
+#Gbtn{
+
+    width: 150px;
+    height: 80px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background-color: #2A2F4F;
+    color: white;
+    font-size: 26px;
+    border: transparent;
+
+
+}
+
+#Gbtn:hover{
+   
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    background-color: #088395;
+}
+
+
+#Hbtn{
+
+    width: 150px;
+    height: 80px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background-color: #2A2F4F;
+    color: white;
+    font-size: 26px;
+    border: transparent;
+
+
+}
+
+#Hbtn:hover{
+   
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    background-color: #088395;
+}
+
+#Ibtn{
+
+    width: 150px;
+    height: 80px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background-color: #2A2F4F;
+    color: white;
+    font-size: 26px;
+    border: transparent;
+
+
+}
+
+#Ibtn:hover{
+   
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    background-color: #950832;
+}
+
+
+#AudioA{
+
+display: none;
+
+}
+
+
+#AudioB{
+
+    display: none;
+}
+
+
+
+#AudioC{
+
+    display: none;
+}
+
+
+
+#AudioD{
+
+    display: none;
+}
+
+
+
+#AudioE{
+    display: none;
+    
+}
+
+
+
+#AudioF{
+    display: none;
+    
+}
+
+
+#AudioG{
+
+    display: none;
+}
+
+
+#AudioH{
+    display: none;
+    
+}
+
+
+#AudioI{
+    display: none;
+}
